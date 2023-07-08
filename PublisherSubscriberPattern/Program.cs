@@ -16,7 +16,7 @@ theMoon.Notify();
 Console.WriteLine("\n");
 
 // Publishing (and notifying) new `The Moon`'s article.
-theMoon.PublishNewLatestArticle("Opinion: Ducks, aliens in disguise");
+theMoon.PublishNewLatestArticle("Opinion: Ducks, aliens in disguise.");
 Console.WriteLine("\n");
 
 // Alice realises that `The Moon` is a cheap tabloid and Unsubscribes.

@@ -1,0 +1,9 @@
+Received an app notification with the latest article: Breaking News!: 42 is the answer.
+Received an Email with the latest article: Breaking News!: 42 is the answer.
+
+
+Received an app notification with the latest article: Opinion: Ducks, aliens in disguise.
+Received an Email with the latest article: Opinion: Ducks, aliens in disguise.
+
+
+Received an Email with the latest article: Finance: Nuke Cola caps sudden price drop!
