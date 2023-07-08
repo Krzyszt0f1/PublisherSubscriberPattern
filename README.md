@@ -1,3 +1,3 @@
-# Publisher subscriber pattern Example in C#
+# Publisher subscriber pattern example in C#
 
 ![UML Diagram](./UML_Diagram.png)
